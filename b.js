@@ -1,1 +1,1 @@
-console.log('b from release')
+console.log('b')
